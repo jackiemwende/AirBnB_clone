@@ -87,7 +87,7 @@ class TestBaseModel_instantiation(unittest.TestCase):
 
 
 class TestBaseModel_save(unittest.TestCase):
-    """Unittests for testing save method of the BaseModel class."""
+    """Unit tests for testing save method of the BaseModel class."""
 
     @classmethod
     def setUp(self):
